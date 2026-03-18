@@ -27,5 +27,16 @@ loan_prediction_app.py
 bank_loan_dataset.csv
 
 ## How to Run the Project
+
+```bash
 pip install -r requirements.txt
 streamlit run loan_prediction_app.py
+```
+
+## Application Preview
+
+### User Input Interface
+![Streamlit Input](streamlit_input.png)
+
+### Prediction Output
+![Streamlit Prediction](streamlit_prediction.png)
